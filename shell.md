@@ -1,11 +1,19 @@
-## oh my zsh
+## zsh
+
+### oh my zsh
 https://github.com/ohmyzsh/ohmyzsh  
 
-## powerlevel10k
+### powerlevel10k
 https://github.com/romkatv/powerlevel10k  
 
-## oh my zsh git pluggin cheatsheet
+### oh my zsh git pluggin cheatsheet
 https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git  
+
+### zsh autocompletion plugin
+https://github.com/zsh-users/zsh-autosuggestions#configuration
+
+### zsh syntax highlighting
+https://github.com/zsh-users/zsh-syntax-highlighting 
 
 ## introduction to shell scripting 
 https://www.guru99.com/introduction-to-shell-scripting.html  
