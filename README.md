@@ -1,5 +1,4 @@
-# cool-links  
-cool links i found  
+# Cool Links  
 
 [Git](git.md)  
 
